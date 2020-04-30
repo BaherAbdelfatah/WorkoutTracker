@@ -443,7 +443,7 @@ class PosenetActivity :
       image.close()
 
       // Process an image for analysis in every 3 frames.
-      frameCounter = (frameCounter + 1) % 3
+      frameCounter = (frameCounter + 1) % 1
       if (frameCounter == 0) {
         processImage(rotatedBitmap)
       }
