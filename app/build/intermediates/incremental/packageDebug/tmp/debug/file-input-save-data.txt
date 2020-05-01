@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Apr 29 01:35:56 GMT+02:00 2020
+#Fri May 01 18:39:27 GMT+02:00 2020
 4.path=lib/x86/libtensorflowlite_gpu_jni.so
 8.set=DEX
 6.path=posenet_model.tflite

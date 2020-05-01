@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
 MERGED from [:posenet] C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\posenet\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\a524b44cc6759038faf52f381bb09550\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\2ad948b5c79021816e7f5fe9bc88a87b\AndroidManifest.xml:17:1-22:12
@@ -38,39 +38,41 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Baher\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\c29c3148218092e43997010a1d5b26ba\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\beb7ad3ea98aeff165c1aa826d140354\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\a5ae10ca77abdcc7fbdf98d4bbb304fe\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:4:5-51
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:5:3-63
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:6:3-63
 	android:name
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:5:20-60
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:6:20-60
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:7:3-58
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:8:3-58
 	android:name
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:7:17-55
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:8:17-55
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:8:3-68
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:9:3-68
 	android:name
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:8:17-65
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:9:17-65
 uses-sdk
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
 MERGED from [:posenet] C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\posenet\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:posenet] C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\posenet\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:28.0.0] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\a524b44cc6759038faf52f381bb09550\AndroidManifest.xml:20:5-44
@@ -139,20 +141,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Baher\.gradle\
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\beb7ad3ea98aeff165c1aa826d140354\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\a5ae10ca77abdcc7fbdf98d4bbb304fe\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\a5ae10ca77abdcc7fbdf98d4bbb304fe\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
-INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
+INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
 	android:targetSdkVersion
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
-		MERGED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
-		MERGED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:10:3-15
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
+		MERGED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
+		MERGED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:11:3-15
 		INJECTED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:12:3-37:17
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:13:3-51:17
 MERGED from [com.android.support:design:28.0.0] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\a524b44cc6759038faf52f381bb09550\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\a524b44cc6759038faf52f381bb09550\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\e05c21dbdaaaa734b4d98e350fa8606f\AndroidManifest.xml:9:5-20
@@ -168,44 +170,60 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Baher\.gra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Baher\.gradle\caches\transforms-2\files-2.1\608688dbb0dfc5fc7f9d762ac5189f2a\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:17:7-33
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:19:7-33
 	android:label
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:15:7-46
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:17:7-46
+	tools:ignore
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:14:7-47
 	android:roundIcon
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:16:7-52
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:18:7-52
 	android:icon
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:14:7-41
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:16:7-41
 	android:allowBackup
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:13:7-33
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:15:7-33
 	android:theme
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:18:7-46
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:20:7-46
 activity#org.tensorflow.lite.examples.posenet.TestActivity
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:20:5-24:16
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:22:5-26:16
 	android:label
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:22:9-48
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:24:9-48
 	android:exported
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:23:9-32
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:25:9-32
 	android:name
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:21:9-37
-activity#org.tensorflow.lite.examples.posenet.CameraActivity
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:26:5-31:16
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:23:9-37
+activity#org.tensorflow.lite.examples.posenet.MainActivity
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:28:5-36:16
+	android:screenOrientation
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:30:9-45
 	android:exported
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:26:46-69
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:29:9-32
+	android:configChanges
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:31:9-68
 	android:name
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:26:15-45
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:28:15-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:27:7-30:23
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:32:7-35:23
 action#android.intent.action.MAIN
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:28:9-60
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:33:9-61
 	android:name
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:28:17-58
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:33:17-58
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:29:9-68
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:34:9-69
 	android:name
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:29:19-66
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:34:19-66
+activity#org.tensorflow.lite.examples.posenet.CameraActivity
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:40:5-45:16
+	android:screenOrientation
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:43:9-45
+	android:exported
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:42:9-32
+	android:configChanges
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:44:9-68
+	android:name
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:41:9-39
 meta-data#preloaded_fonts
-ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:33:5-35:53
+ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:47:5-49:53
 	android:resource
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:35:9-50
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:49:9-50
 	android:name
-		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:34:9-39
+		ADDED from C:\Users\Baher\AndroidStudioProjects\PoseNetImageProcessing\app\src\main\AndroidManifest.xml:48:9-39

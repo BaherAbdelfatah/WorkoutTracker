@@ -16,10 +16,13 @@
 
 package org.tensorflow.lite.examples.posenet
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import android.widget.Spinner
+import kotlinx.android.synthetic.main.tfe_pn_activity_posenet.*
 
-class CameraActivity : AppCompatActivity() {
+public class CameraActivity : AppCompatActivity() {
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)

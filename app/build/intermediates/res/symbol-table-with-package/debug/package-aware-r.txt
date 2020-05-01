@@ -25,6 +25,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array Exercises
 array com_google_android_gms_fonts_certs
 array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
@@ -1000,6 +1001,7 @@ drawable abc_vector_test
 drawable action
 drawable avd_hide_password
 drawable avd_show_password
+drawable background
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1038,10 +1040,13 @@ drawable workout_tracker_logo
 font aclonica
 id ALT
 id CTRL
+id ExerciseType
 id FUNCTION
+id Logo
 id META
 id SHIFT
 id SYM
+id Welcome
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1190,6 +1195,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spinner
 id split_action_bar
 id spread
 id spread_inside
@@ -1198,6 +1204,7 @@ id src_in
 id src_over
 id standard
 id start
+id startButton
 id stretch
 id submenuarrow
 id submit_area
@@ -1285,6 +1292,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_main
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1372,10 +1380,15 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string select_exercise
+string selected_item
+string start
 string status_bar_notification_info_overflow
 string tfe_pn_app_name
 string tfe_pn_camera_error
 string tfe_pn_request_permission
+string welcome_to_workout_tracker
+string workout_trainer_logo
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

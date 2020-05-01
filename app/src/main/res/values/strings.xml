@@ -31,6 +31,10 @@ Then it will track your body posture movement and warn you if you do any mistake
   <string name="tfe_pn_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
     <string name="Title">Workout Tracker</string>
   <string name="selected_item">Selected item:</string>
+  <string name="welcome_to_workout_tracker">Welcome to Workout Tracker</string>
+  <string name="select_exercise">Please Select Exercise Type :-</string>
+  <string name="start">Start</string>
+  <string name="workout_trainer_logo">Workout Trainer Logo</string>
   <string-array name="Exercises">
     <item>None</item>
     <item>Push-Ups</item>
